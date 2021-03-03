@@ -27,6 +27,8 @@ call plug#end()
 set bg=dark
 set go=a
 set mouse=a
+set tabstop=2
+set shiftwidth=2
 set nohlsearch
 set clipboard+=unnamedplus
 
